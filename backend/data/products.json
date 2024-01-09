@@ -1,0 +1,140 @@
+[
+    {
+        "name" : "Ở Quán Cà Phê Của Tuổi Trẻ Lạc Lối (Tái Bản)",
+        "price" : "41300",
+        "description" : "Cuốn tiểu thuyết mỏng của Patrick Modiano, khôi nguyên giải Nobel văn chương 2014, được chia thành nhiều giọng kể: một cựu sinh viên trường mỏ, một thám tử chuyên nghiệp, nữ nhân vật chính và Roland-người tình. ",
+        "ratings" : 4.8        ,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách văn học",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "Nghệ Thuật Tư Duy Chiến Lược",
+        "price" : "165000",
+        "description" : "Thông qua Nghệ thuật tư duy chiến lược, bạn sẽ thấy những người thành công trong mọi lĩnh vực từ giải trí đến chính trị, từ giáo dục đến thể thao, đạt thành công vang dội là nhờ luôn nắm vững lý thuyết trò chơi hay nghệ thuật tư duy chiến lược, với khả năng dự đoán những động thái tiếp theo của người cùng chơi, trong khi biết rõ rằng đối thủ đang cố gắng làm điều tương tự với mình.",
+        "ratings" : 4.3,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách kinh tế",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 2,
+        "reviews": []
+    },
+    {
+        "name" : "Ổn Định Hay Tự Do",
+        "price" : "86430",
+        "description" : "ỔN ĐỊNH HAY TỰ DO (Yên ổn bạn thích không cho bạn được cuộc đời như mong muốn) - cuốn sách Best-seller dành cho thế hệ GEN Z, tiếp nối Hãy khiến tương lai biết ơn vì hiện tại bạn đã cố gắng hết mình.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách kỹ năng sống",
+        "seller" : "Amazon",
+        "stock" : 1,
+        "numOfReviews" : 12,
+        "reviews": []
+    },
+    {
+        "name" : "Tiếng Hàn cơ bản cùng Cheri Hyeri (Tái bản)",
+        "price" : "18,4000",
+        "description" : "Sách tự học tiếng Hàn cơ bản CHO NGƯỜI MỚI BẮT ĐẦU thật dễ dàng",
+        "ratings" : 5.0,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách Học Ngoại Ngữ",
+        "seller" : "Amazon",
+        "stock" : 11,
+        "numOfReviews" : 112,
+        "reviews": []
+    },
+    {
+        "name" : "Định luật Murphy – Mọi bí mật tâm lý thao túng cuộc đời bạn",
+        "price" : "79,729",
+        "description" : "Có phải hằng ngày bạn hay gặp những chuyện dở khóc dở cười tương tự như vậy? Những hiện tượng này đều có thể giải thích bằng một khái niệm tâm lý học thú vị: Định luật Murphy. Nó nhắc nhở chúng ta rằng việc xấu luôn có “cơ may” cao hơn và sai lầm luôn là một phần của thế giới này. Dù cho mỗi chúng ta đều cố gắng hết sức để tránh khỏi sai lầm, nhưng trên thực tế đó là điều bất khả thi.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách Kiến Thức Tổng Hợp",
+        "seller" : "Amazon",
+        "stock" : 122,
+        "numOfReviews" : 2671,
+        "reviews": []
+    },
+    {
+        "name" : "Đại Việt Sử Ký Toàn Thư Trọn Bộ (Tái Bản 2020)",
+        "price" : "203.500",
+        "description" : "Trong các sách lịch sử cũ của ta , thì  Đại Việt sử ký toàn thư là một bộ sử lớn chép từ Hồng Bàng đến Ất Mão ( 1675) đời vua Gia Tôn nhà Lê. Đại Việt sử ký toàn thư là bộ sách lịch sử quý báu trong tủ sách sử cũ của nước Việt Nam , rất cần thiết cho những người nghiên cứu lịch sử dân tộc .",
+        "ratings" : 4.7,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách Lịch sử",
+        "seller" : "Amazon",
+        "stock" : 1123,
+        "numOfReviews" : 6,
+        "reviews": []
+    },
+    {
+        "name" : "Việt Nam Sử Lược (Bìa Cứng) - Tái bản 2020",
+        "price" : "266.000",
+        "description" : "Việt Nam sử lược của Trần Trọng Kim xuất bản lần đầu năm 1920, dựa trên những nghiên cứu trước đó như Nam sử tiểu học và Sơ học An Nam sử lược từ những năm 1914 -1917, là bộ thông sử viết bằng chữ quốc ngữ đầu tiên của Việt Nam được soạn theo phương pháp hiện đại.",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách Lịch sử",
+        "seller" : "Amazon",
+        "stock" : 131,
+        "numOfReviews" : 222,
+        "reviews": []
+    },
+    {
+        "name" : "Súng, Vi Trùng Và Thép  (Tái bản)",
+        "price" : "210.500",
+        "description" : "Nội dung cuốn sách giải thích vì sao các nền văn minh Á – Âu (bao gồm cả Bắc Phi) lại tồn tại được, cũng như đã chinh phục các nền văn minh khác, cùng lúc ông bác bỏ các lý thuyết về sự thống trị của các nền văn minh Á –Âu dựa trên trí tuệ, đạo đức hay ưu thế di truyền. Jared Diamond lập luận rằng, sự khác biệt về quyền lực và công nghệ giữa các xã hội loài người có nguồn gốc từ sự khác biệt về môi trường, trong đó sự khác biệt này được khuếch đại không ngừng. Qua đó, ông giải thích tại sao Tây Âu, chứ không phải các nền văn minh khác trong thế giới Á – Âu như Trung Quốc, lại trở thành các thế lực thống trị.",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "",
+            "url" : ""
+        }],
+        "category" : "Sách Lịch sử",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Đệ Nhị Thế Chiến",
+        "price" : "161.000",
+        "description" : "Hiệp ước đình chiến kết thúc Chiến tranh Thế giới lần thứ I (Armistice de Compiegne, 1918) lại là mầm mống của một cuộc chiến tranh mới - Đệ nhị Thế chiến. Đây là một cuộc chiến khốc liệt mà ở đó tham vọng con người đã trở thành một thứ cuồng vọng không còn nhân tính.",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "",
+                "url" : ""
+            }
+            
+        ],
+        "category" : "Sách Lịch sử",
+        "seller" : "Kauffman's Fruit Farm & Market",
+        "stock" : 500,
+        "numOfReviews" : 1,
+        "reviews": []
+    }
+]
